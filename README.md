@@ -1,4 +1,4 @@
-# VUE FRAMEWORK
+# vue_framework
 
 ## Project setup
 ```
