@@ -1,14 +1,18 @@
 <template>
-  <div>UserInfomation</div>
+  <button @click="back()">back</button>
 </template>
 
 <script>
 export default {
-  name: "",
+  name: "UserInfomation",
   data() {
     return {};
   },
-  methods: {},
+  methods: {
+    back() {
+      this.$router.go(-1);
+    },
+  },
 };
 </script>
 <style lang="less" scoped>
