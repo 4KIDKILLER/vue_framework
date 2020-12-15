@@ -1,5 +1,7 @@
 <template>
-  <div>Index</div>
+  <div>
+    <router-link to='/userInfomation'>go info</router-link>
+  </div>
 </template>
 
 <script>
