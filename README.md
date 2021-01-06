@@ -2,7 +2,6 @@
 
 ## 技术栈
 1. vue
-2. vue-router
-3. iview
-4. vue-router
-5. axios
+2. iview
+3. vue-router
+4. axios
