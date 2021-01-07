@@ -11,11 +11,14 @@ const Route = new VueRouter({
         {
             path: '/',
             name: 'index',
-            component: Index
+            component: Index,
+            meta: {
+                keepAlive: true,
+            }
         }, {
             path: '/userInfomation',
             name: 'userInfomation',
-            component: UserInfomation
+            component: UserInfomation,
         }
     ],
 });

@@ -5,3 +5,4 @@
 2. iview
 3. vue-router
 4. axios
+5. vuex
