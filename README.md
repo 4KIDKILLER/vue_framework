@@ -6,3 +6,5 @@
 3. vue-router
 4. axios
 5. vuex
+
+upload by macbook pro
